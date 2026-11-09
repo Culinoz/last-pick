@@ -1,4 +1,4 @@
-# Last Pick
+# MTG Draft
 
 A full-stack Magic: The Gathering booster draft simulator built with Spring Boot and React.
 
@@ -40,6 +40,7 @@ A full-stack Magic: The Gathering booster draft simulator built with Spring Boot
    ```bash
    java -jar target/mtgDraft-0.0.1-SNAPSHOT.jar
    ```
-   *(Alternatively: `./mvnw spring-boot:run`)*
+   *(Alternatively, run with `./mvnw spring-boot:run`)*
 
 4. Open [http://localhost:8080](http://localhost:8080) in your browser.
+
